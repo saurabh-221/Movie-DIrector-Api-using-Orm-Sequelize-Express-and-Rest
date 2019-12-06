@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "Name": "Frank Darabont"
+    },
+    {
+        "id": 2,
+        "Name": "Francis Ford Coppola"
+    },
+    {
+        "id": 3,
+        "Name": "Christopher Nolan"
+    },
+    {
+        "id": 4,
+        "Name": "Quentin Tarantino"
+    },
+    {
+        "id": 5,
+        "Name": "Steven Spielberg"
+    },
+    {
+        "id": 6,
+        "Name": "Peter Jackson"
+    },
+    {
+        "id": 7,
+        "Name": "Sergio Leone"
+    },
+    {
+        "id": 8,
+        "Name": "Sidney Lumet"
+    },
+    {
+        "id": 9,
+        "Name": "Robert Zemeckis"
+    },
+    {
+        "id": 10,
+        "Name": "David Fincher"
+    },
+    {
+        "id": 11,
+        "Name": "Irvin Kershner"
+    },
+    {
+        "id": 12,
+        "Name": "Martin Scorsese"
+    },
+    {
+        "id": 13,
+        "Name": "Lana Wachowski"
+    },
+    {
+        "id": 14,
+        "Name": "Milos Forman"
+    },
+    {
+        "id": 15,
+        "Name": "Akira Kurosawa"
+    },
+    {
+        "id": 16,
+        "Name": "Luc Besson"
+    },
+    {
+        "id": 17,
+        "Name": "Jonathan Demme"
+    },
+    {
+        "id": 18,
+        "Name": "George Lucas"
+    },
+    {
+        "id": 19,
+        "Name": "Bryan Singer"
+    },
+    {
+        "id": 20,
+        "Name": "Hayao Miyazaki"
+    },
+    {
+        "id": 21,
+        "Name": "Fernando Meirelles"
+    },
+    {
+        "id": 22,
+        "Name": "Nitesh Tiwari"
+    },
+    {
+        "id": 23,
+        "Name": "Roberto Benigni"
+    },
+    {
+        "id": 24,
+        "Name": "Frank Capra"
+    },
+    {
+        "id": 25,
+        "Name": "Charles Chaplin"
+    },
+    {
+        "id": 26,
+        "Name": "Lee Unkrich"
+    },
+    {
+        "id": 27,
+        "Name": "Roger Allers"
+    },
+    {
+        "id": 28,
+        "Name": "Ridley Scott"
+    },
+    {
+        "id": 29,
+        "Name": "Alfred Hitchcock"
+    },
+    {
+        "id": 30,
+        "Name": "Damien Chazelle"
+    },
+    {
+        "id": 31,
+        "Name": "Tony Kaye"
+    },
+    {
+        "id": 32,
+        "Name": "James Cameron"
+    },
+    {
+        "id": 33,
+        "Name": "Olivier Nakache"
+    },
+    {
+        "id": 34,
+        "Name": "Roman Polanski"
+    },
+    {
+        "id": 35,
+        "Name": "Michael Curtiz"
+    }
+]
